@@ -86,6 +86,12 @@ h1.intro{
 
 }
 
+.list-group1{
+    justify-content: center;
+    text-align: center;
+    padding-left: 840px;
+}
+
 .Foto{
     width: 100px;
     height: 100px;
