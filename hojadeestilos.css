@@ -73,3 +73,19 @@ h1.intro{
     font-family: Courier;
 
 }
+
+.Foto{
+    width: 100px;
+    height: 100px;
+}
+
+footer{
+    padding: 100px;
+    background-color: black;
+}
+
+footer p{
+    font: 1.2em Georgia, "Times New Roman", Times, Serif;
+    color: grey;
+
+}
