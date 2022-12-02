@@ -114,6 +114,15 @@ footer p{
 
 }
 
+#carouselExampleControls{
+    padding: 6px;
+    background-color: grey;
+    border-radius: 4px;
+    -webkit-transition: -webkit-transform 0.3s ease-in-out 0.1s;
+    box-shadow: grey 3px 3px 30px;
+
+}
+
 figure{
     float: left;
 }
