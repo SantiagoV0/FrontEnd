@@ -123,6 +123,29 @@ footer p{
 
 }
 
+.titulos{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-family: Courier;
+}
+
+.bd-example{
+    position: relative;
+    padding: 1rem;
+    margin: 2rem 13rem 0;
+    border: solid #dee2e6;
+    border-width: 0px 0 0;
+}
+
+.progress{
+    display: flex;
+    height: 1rem;
+    overflow: hidden;
+    font-size: .75rem;
+    background-color: #e9ecef;
+    border-radius: 0.25rem;
+}
+
 figure{
     float: left;
 }
