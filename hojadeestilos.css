@@ -1,5 +1,5 @@
 body{
-    background-image: url(fondo.jpg);
+    /* background-image: url(fondo.jpg); */
     height: 10px;
     width: 100%;
     position: relative;
@@ -41,12 +41,11 @@ body{
 .list-group {
     --bs-list-group-bg: transparent;
     padding: 18px;
-    padding-left: 9px;
+    padding-left: 10px;
+    align-items: center;
+
   }
-.list-group1{
-    padding-top: 18px;
-    padding-right: 10px;
-}
+
 section.Banner{
     background-image: linear-gradient(
         rgba(0, 0, 0, 0.0),
@@ -97,7 +96,7 @@ h1.intro{
     height: 100px;
 }
 
-footer{
+/* footer{
     height:90px;
     width: 400%;
     background-color: ;
@@ -112,7 +111,7 @@ footer p{
     font: 1.2em Georgia, "Times New Roman", Times, Serif;
     color: grey;
 
-}
+} */
 
 #carouselExampleControls{
     padding: 6px;
