@@ -160,3 +160,10 @@ figure img {
 figure img:hover{
     -webkit-transform: scale(1.1);
 }
+
+.formulario-login{
+    margin-top: 10%;
+}
+.login{
+    height: 80vh;
+}
